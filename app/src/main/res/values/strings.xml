@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LegoShop</string>
+    <string name="title_home">Home</string>
+    <string-array name="category">
+        <item>HarryPotter</item>
+        <item>Disney</item>
+        <item>Minions</item>
+    </string-array>
+
+    <string name="company_name">Lego</string>
+    <string name="year_foundation">1932</string>
+    <string name="lefo_info">Lego is a line of plastic construction toys that are manufactured by The Lego Group,
+        a privately held company based in Billund, Denmark.The company is flagship product, Lego, consists of variously
+        colored interlocking plastic bricks accompanying an array of gears, figurines called minifigures, and various other parts.
+        Lego pieces can be assembled and connected in many ways to construct objects, including vehicles, buildings, and working robots.
+        Anything constructed can be taken apart again, and the pieces reused to make new things.</string>
+</resources>
