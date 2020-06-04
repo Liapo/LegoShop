@@ -1,0 +1,4 @@
+#Wed Jun 03 23:12:45 EEST 2020
+base.0=/home/natasha/AndroidStudioProjects/LegoShop/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
